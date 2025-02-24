@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="agricon-preview-files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/agricon-preview-files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
